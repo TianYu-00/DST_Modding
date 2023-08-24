@@ -6,6 +6,9 @@ Local
 Server  
 :\SteamLibrary\steamapps\workshop\content
 
+Data
+:\SteamLibrary\steamapps\common\Don't Starve Together\data
+
 API Examples  
 https://forums.kleientertainment.com/files/file/203-api-examples/
 
