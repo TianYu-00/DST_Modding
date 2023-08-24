@@ -6,7 +6,7 @@ Local
 Server  
 :\SteamLibrary\steamapps\workshop\content
 
-Data
+Data  
 :\SteamLibrary\steamapps\common\Don't Starve Together\data
 
 API Examples  
