@@ -9,6 +9,9 @@ Server
 API Examples  
 https://forums.kleientertainment.com/files/file/203-api-examples/
 
+Getting started  
+https://forums.kleientertainment.com/forums/topic/47353-guide-getting-started-with-modding-dst-and-some-general-tips-for-ds-as-well/
+
 Texture and Atlas Packer  
 https://forums.kleientertainment.com/files/file/1333-texture-and-atlas-packer/
 
