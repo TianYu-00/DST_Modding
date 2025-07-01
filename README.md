@@ -18,6 +18,20 @@ https://forums.kleientertainment.com/forums/topic/47353-guide-getting-started-wi
 Texture and Atlas Packer  
 https://forums.kleientertainment.com/files/file/1333-texture-and-atlas-packer/
 
+TXTool   
+https://forums.kleientertainment.com/files/file/348-textool-v12/
 
 Upload To Steam Workshop  
 https://forums.kleientertainment.com/forums/topic/114247-tutorial-how-to-upload-a-ds-dst-mod-to-the-steam-workshop/
+
+Modinfo.lua Template   
+https://dst-api-docs.fandom.com/wiki/Modinfo.lua
+
+Tutorial Collection   
+https://forums.kleientertainment.com/forums/topic/116302-ultromans-tutorial-collection-newcomer-intro/
+
+All Engine Functions
+https://forums.kleientertainment.com/forums/topic/126774-documentation-list-of-all-engine-functions/
+
+Emojis   
+https://dst-api-docs.fandom.com/wiki/Icon_codes
